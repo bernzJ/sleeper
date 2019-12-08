@@ -13,7 +13,7 @@
     "react-scripts": "3.2.0",
     "styled-components": "^4.4.1"
   },
-  "homepage": "https://github.com/sleepbro533/sleeper/",
+  "homepage": "https://sleepbro533.github.io/sleeper/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

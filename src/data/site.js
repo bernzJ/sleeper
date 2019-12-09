@@ -10,7 +10,7 @@ const aff = [
       '$600 - $1000',
     ],
     url: 'http://shrsl.com/1pbgg',
-    mattress: 'Cheap Bastard',
+    mattress: 'Puffy',
     thumbnail: mattress1,
   },
   {
@@ -19,7 +19,7 @@ const aff = [
       '$1000 - $1500',
     ],
     url: 'https://shareasale.com/r.cfm?b=1354291&u=2002666&m=69944&urllink=&afftrack=',
-    mattress: 'Normal One',
+    mattress: 'Nectar',
     thumbnail: mattress2,
   },
   {
@@ -28,7 +28,7 @@ const aff = [
       '$1500+',
     ],
     url: 'http://shrsl.com/1pch8',
-    mattress: 'Comfy aF',
+    mattress: 'Dreamcoud',
     thumbnail: mattress3,
   },
 ];
